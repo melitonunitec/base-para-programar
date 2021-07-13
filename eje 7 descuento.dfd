@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+12
+totalcompras
+1
+0
+4
+1
+33
+'digite el total de sus compras:'
+5
+1
+12
+totalcompras
+6
+2
+9
+descuento
+19
+totalcompras*15/100
+11
+preciofinal
+22
+totalcompras-descuento
+4
+1
+62
+'el precio final de compras con su descuento es:' ,preciofinal
+1

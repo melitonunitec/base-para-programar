@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+x1
+1
+0
+2
+x2
+1
+0
+2
+xn
+1
+0
+6
+1
+5
+media
+1
+0
+4
+1
+29
+ 'dijiste un numero para x1:'
+5
+1
+2
+x1
+4
+1
+35
+'Dijite un segundo numero para x2:'
+5
+1
+2
+x2
+4
+1
+30
+'dijiste otro numero para xn:'
+5
+1
+2
+xn
+6
+1
+5
+media
+12
+(x1+x2+xn)/3
+4
+1
+32
+'La media aritmetica es:' ,media
+1
